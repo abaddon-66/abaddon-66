@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @abaddon-66
+- 👋 Hi,I’m Hyper.sh
 ![Hypers GitHub stats](https://github-readme-stats.vercel.app/api?username=abaddon-66&show_icons=true&theme=radical)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Developer of WaifuClock
+- 🌱 I’m currently learning Layouts,kotlin
+- 🍂 contact me on @hyp3r_sh  on telegram
 
 <!---
 abaddon-66/abaddon-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
